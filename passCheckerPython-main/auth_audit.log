@@ -1,0 +1,16 @@
+{"timestamp":"2025-09-05T08:07:17.867899Z","event":"login_fail","username":"CarlTorz","ip":"127.0.0.1","details":{"reason":"locked_or_suspended"}}
+{"timestamp":"2025-09-05T08:07:39.819094Z","event":"reset_start","username":"CarlTorz","ip":"127.0.0.1","details":{"reason":"no_security_question"}}
+{"timestamp":"2025-09-05T08:08:00.057517Z","event":"reset_start","username":"coco","ip":"127.0.0.1","details":{"reason":"no_security_question"}}
+{"timestamp":"2025-09-05T08:10:11.199430Z","event":"reset_start","username":"CarlTorz","ip":"127.0.0.1","details":{"reason":"no_security_question"}}
+{"timestamp":"2025-09-05T08:13:34.149448Z","event":"reset_start","username":"CarlTorz","ip":"127.0.0.1","details":{"reason":"no_security_question"}}
+{"timestamp":"2025-09-05T08:13:43.931372Z","event":"login_fail","username":"CarlTorz","ip":"127.0.0.1","details":{"reason":"locked_or_suspended"}}
+{"timestamp":"2025-09-05T08:14:29.237783Z","event":"register","username":"kal","ip":"127.0.0.1","details":{}}
+{"timestamp":"2025-09-05T08:14:38.943571Z","event":"login_fail","username":"kal","ip":"127.0.0.1","details":{"reason":"bad_credentials"}}
+{"timestamp":"2025-09-05T08:14:51.487237Z","event":"login_fail","username":"kal","ip":"127.0.0.1","details":{"reason":"bad_credentials"}}
+{"timestamp":"2025-09-05T08:18:03.475810Z","event":"reset_verified","username":"kal","ip":"127.0.0.1","details":{}}
+{"timestamp":"2025-09-05T08:18:12.324461Z","event":"reset_success","username":"kal","ip":"127.0.0.1","details":{}}
+{"timestamp":"2025-09-05T08:26:07.458775Z","event":"reset_start","username":"coco","ip":"127.0.0.1","details":{"reason":"no_security_question"}}
+{"timestamp":"2025-09-05T08:26:33.173659Z","event":"reset_verified","username":"kal","ip":"127.0.0.1","details":{}}
+{"timestamp":"2025-09-05T08:26:42.827317Z","event":"reset_success","username":"kal","ip":"127.0.0.1","details":{}}
+{"timestamp":"2025-09-05T08:33:40.628836Z","event":"reset_verified","username":"kal","ip":"127.0.0.1","details":{}}
+{"timestamp":"2025-09-05T08:33:50.031707Z","event":"reset_success","username":"kal","ip":"127.0.0.1","details":{}}

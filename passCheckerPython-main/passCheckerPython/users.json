@@ -1,0 +1,6 @@
+{
+  "vinzcode": {
+    "password_hash": "pbkdf2_sha256$130000$b7c46d30cf5feb7607ddf08dd8d546e5$9f447e6f6ab78ee5aec7604328dd2c972f8e5a8388c5256c86a4b002b694c8e5",
+    "totp_secret": null
+  }
+}
